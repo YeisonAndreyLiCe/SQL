@@ -1,3 +1,21 @@
+# Table of Contents
+1. [Databases](#databases)
+2. [Tables](#tables)
+3. [Views](#views)
+4. [Procedures](#procedures)
+5. [Triggers](#triggers)
+6. [Querying](#querying)
+7. [ERD (Entity Relationship Diagram)](#erd-entity-relationship-diagram)
+8. [Relationships](#relationships)
+9. [One-to-One](#one-to-one)
+10. [One-to-Many](#one-to-many)
+11. [Many-to-Many](#many-to-many)
+12. [Normalization](#normalization)
+13. [Normal Forms](#normal-forms)
+14. [conventions](#conventions)
+15. [SQL (Structured Query Language)](#sql-structured-query-language)
+
+
 # Databases
 A database is a collection of information that is organized so that it can be easily accessed, managed, and updated. Something that is important while designing a database is to make sure that the data is stored in a way that makes it easy to find and use, avoiding repetition, increasing efficiency and reducing querying. This is called data normalization.
 
